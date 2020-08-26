@@ -1,4 +1,4 @@
-# LawNet Application Support Process Document
+# LawNet Application Support Process
 
 ## Incident Priority Matrix
 
