@@ -10,6 +10,7 @@ Incident Priority is derived from the urgency and impact matrix as illustrated b
 
 
 #Service Level Matrix
+
 <a href="./images/servicelevel.png" target="_blank">
     <img src="./images/servicelevel.png" width=800 />
 </a>
