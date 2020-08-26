@@ -8,7 +8,7 @@ Incident Priority is derived from the urgency and impact matrix as illustrated b
     <img src="./images/incidenprioritymatrix.png" width=800 />
 </a>
 
-*For all P1 and P2 issues, CL should contact SAL team ASAP.
+*For all P1 and P2 issues, CL should contact SAL team immediately over group chat. P3 and P4 will be recorded in SAL's Open Project.
 
 ## Service Level Matrix
 
