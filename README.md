@@ -4,7 +4,9 @@ Application Support Process Document
 Incident Priority Matrix
 Incident Priority is derived from the urgency and impact matrix as illustrated below
 
-| | Impact | | --- | --- | | H | M | L | | Urgency | H | 1 | 2 | 3 | | M | 2 | 3 | 4 | | L | 3 | 4 | 4 |
+<a href="./images/incidenprioritymatrix.png" target="_blank">
+    <img src="./images/incidenprioritymatrix.png" width=500 />
+</a>
 
 Priority	Category	Target Response Time	Target Resolution Time
 1	Critical	0.5 hours	4 hours
